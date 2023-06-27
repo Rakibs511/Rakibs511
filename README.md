@@ -1,5 +1,24 @@
-<h1 align="center">Hey! I'm Rakibul Hasan</h1>
-<h3 align="center">Full-Stack Developer</h3>
+<div align="center" style="background-image: url(''); background-color: #333333; padding: 40px;">
+  <!-- Add your logo or profile picture -->
+  <img src="https://avatars.githubusercontent.com/u/108168071?v=4" alt="Your Name" width="400" height="400" style="border-radius:50%">
+  
+  <!-- Add your name and a catchy headline -->
+  <h1 style="color: white; font-size: 36px; margin-top: 20px;">Hi, I'm Rakibul Hasan!</h1>
+  <p style="color: white; font-size: 18px;">Full Stack Software Developer</p>
+  
+  <!-- Add links to your social media profiles -->
+  <p>
+    <a href="#" style="color: white; font-size: 20px; margin-right: 10px;">Website</a>
+    <a href="#" style="color: white; font-size: 20px; margin-right: 10px;">LinkedIn</a>
+    <a href="#" style="color: white; font-size: 20px;">Twitter</a>
+  </p>
+</div>
+
+
+<p>
+    Hi there! I'm a passionate full-stack web programmer with expertise in building dynamic and responsive web applications. With a strong foundation in both front-end and back-end technologies, I bring ideas to life by crafting intuitive user interfaces and designing robust server-side architecture.
+  </p>
+
 
 
 - 🔭 I’m currently working on **Social Media Application**
@@ -21,15 +40,15 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rakibs511&theme=onedark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rakibs511&theme=onedark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakibs511&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Rakibs511&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Rakibs511&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakibs511&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rakibs511&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Rakibs511&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Rakibs511&icon=5&color=6)](https://visitcount.itsvg.in)
