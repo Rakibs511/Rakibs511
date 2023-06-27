@@ -16,14 +16,14 @@
 
 
 <p>
-   Hi there! 👋 I'm a passionate full-stack web programmer with expertise in building dynamic and responsive web applications. 💻 With a strong foundation in both front-end and back-end technologies, I bring ideas to life by crafting intuitive user interfaces and designing robust server-side architecture. 🚀
+   Hi there! 👋 I'm a passionate full-stack software developer with expertise in building dynamic and responsive web applications. 💻 With a strong foundation in both front-end and back-end technologies, I bring ideas to life by crafting intuitive user interfaces and designing robust server-side architecture. 🚀
   </p>
 
 
 <h2>🔧 Skills</h2>
   <ul>
-    <li>Front-end development: HTML5, CSS3, JavaScript (ES6+), React</li>
-    <li>Back-end development: Node.js, Express.js, Python, Django</li>
+    <li>Front-end development: HTML5, CSS3, JavaScript (ES6+), React, Next, Framer, Mui, TailwindCss and more</li>
+    <li>Back-end development: Node.js, Express.js, Python, Django, Prisma</li>
     <li>Database: SQL (MySQL, PostgreSQL), NoSQL (MongoDB)</li>
     <li>Version control: Git, GitHub</li>
     <li>Deployment: Heroku, AWS, Netlify</li>
