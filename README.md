@@ -43,10 +43,9 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rakibs511&theme=radical&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakibs511&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-contributor-stats.vercel.app/api?username=Rakibs511&limit=5&theme=radical&hide_border=true&combine_all_yearly_contributions=true)
 ![](https://github-readme-stats.vercel.app/api?username=Rakibs511&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
-### 🚀 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rakibs511&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
