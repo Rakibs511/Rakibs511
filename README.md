@@ -16,7 +16,7 @@
 
 
 <p>
-    Hi there! I'm a passionate full-stack web programmer with expertise in building dynamic and responsive web applications. With a strong foundation in both front-end and back-end technologies, I bring ideas to life by crafting intuitive user interfaces and designing robust server-side architecture.
+   Hi there! 👋 I'm a passionate full-stack web programmer with expertise in building dynamic and responsive web applications. 💻 With a strong foundation in both front-end and back-end technologies, I bring ideas to life by crafting intuitive user interfaces and designing robust server-side architecture. 🚀
   </p>
 
 
@@ -40,15 +40,15 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rakibs511&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Rakibs511&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rakibs511&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakibs511&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+### 🚀 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Rakibs511&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rakibs511&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Rakibs511&icon=5&color=6)](https://visitcount.itsvg.in)
