@@ -41,10 +41,10 @@
 
 
 # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Rakibs511&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-contributor-stats.vercel.app/api?username=Rakibs511&limit=5&theme=radical&hide_border=true&combine_all_yearly_contributions=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rakibs511&theme=radical&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakibs511&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-contributor-stats.vercel.app/api?username=Rakibs511&limit=5&theme=radical&hide_border=true&combine_all_yearly_contributions=true)
-![](https://github-readme-stats.vercel.app/api?username=Rakibs511&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
 
 ### ✍️ Quote
