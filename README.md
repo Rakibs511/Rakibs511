@@ -1,6 +1,9 @@
 <div align="center" style="background-image: url(''); background-color: #333333; padding: 40px;">
   <!-- Add your logo or profile picture -->
-  <img src="https://avatars.githubusercontent.com/u/108168071?v=4" alt="Your Name" width="400" height="400" style="border-radius:50%">
+<!--       <img src="https://avatars.githubusercontent.com/u/108168071?v=4" alt="Your Name" width="400" height="400" style="border-radius:50%"> -->
+
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmNmOTk5NjZmOTIyOWQyMDU3ZmVjMDQwYWJlY2ZlMTIzMDMxYWRkZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/CfHZjBuJ3ZnLlKmF7n/giphy.gif" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 480px; height: 377px; margin: 0px; width: 417px;" alt="Flutter Rive animate after tap - Stack Overflow" jsname="kn3ccd">
+  
   
   <!-- Add your name and a catchy headline -->
   <h1 style="color: white; font-size: 36px; margin-top: 20px;">Hi, I'm Rakibul Hasan!</h1>
