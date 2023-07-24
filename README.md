@@ -12,7 +12,7 @@
   <!-- Add links to your social media profiles -->
   <p>
     <a href="#" style="color: white; font-size: 20px; margin-right: 10px;">Website</a>
-    <a href="#" style="color: white; font-size: 20px; margin-right: 10px;">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/rakibs511/" style="color: white; font-size: 20px; margin-right: 10px;">LinkedIn</a>
     <a href="#" style="color: white; font-size: 20px;">Twitter</a>
   </p>
 </div>
