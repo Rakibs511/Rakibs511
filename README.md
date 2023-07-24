@@ -37,7 +37,7 @@
   <h2>🚀 Notable Projects</h2>
   <ul>
     <li><a href="https://github.com/Rakibs511/medicare-html-css">Medicare</a>: A fully responsive e-commerce platform built with React, Node.js, and MongoDB.</li>
-    <li><a href="#">Project 2</a>: A real-time chat application using React, Node.js, and Socket.io.</li>
+    <li><a href="https://github.com/Rakibs511/chat-app">Realtime-Chat</a>: A real-time chat application using Next-js, Express-js, and Socket.io.</li>
     <li><a href="#">Project 3</a>: A task management tool with user authentication and authorization using Django and PostgreSQL.</li>
   </ul>
 
