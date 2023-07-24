@@ -25,11 +25,11 @@
 
 <h2>🔧 Skills</h2>
   <ul>
-    <li>Front-end development: HTML5, CSS3, JavaScript (ES6+), React, Next, Framer, Mui, TailwindCss and more</li>
-    <li>Back-end development: Node.js, Express.js, Python, Django, Prisma</li>
+    <li>Front-end development: HTML5, CSS3, JavaScript (ES6+), React, Next, Framer, Mui, TailwindCss, and more</li>
+    <li>Back-end development: Node.js, Express.js, Python, Django, Prisma, Socket.io, WebRTC/PeerJs</li>
     <li>Database: SQL (MySQL, PostgreSQL), NoSQL (MongoDB)</li>
     <li>Version control: Git, GitHub</li>
-    <li>Deployment: Heroku, AWS, Netlify</li>
+    <li>Deployment: Github (action/pages), Render, Heroku, AWS, Netlify</li>
     <li>Testing and automation: Jest, Mocha, Selenium</li>
   </ul>
 
@@ -39,7 +39,6 @@
     <li><a href="https://github.com/Rakibs511/TodoApp">Todo-App</a>: A fully responsive Todo-APP built with Next-js with LocalStorage</li>
     <li><a href="https://github.com/Rakibs511/medicare-html-css">Medicare</a>: A fully responsive e-commerce platform built with React, Node.js, and MongoDB.</li>
     <li><a href="https://github.com/Rakibs511/chat-app">Realtime-Chat</a>: A real-time chat application using Next-js, Express-js, and Socket.io.</li>
-    <li><a href="#">Project 3</a>: A task management tool with user authentication and authorization using Django and PostgreSQL.</li>
   </ul>
 
 
