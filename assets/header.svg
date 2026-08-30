@@ -1,0 +1,90 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0e1a"/>
+      <stop offset="50%" stop-color="#10101f"/>
+      <stop offset="100%" stop-color="#150c22"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="50%" stop-color="#a855f7"/>
+      <stop offset="100%" stop-color="#ec4899"/>
+    </linearGradient>
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.55"/>
+      <stop offset="50%" stop-color="#a855f7" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#ec4899" stop-opacity="0.55"/>
+    </linearGradient>
+    <radialGradient id="glowCyan" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowPurple" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#a855f7" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#a855f7" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowPink" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ec4899" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#ec4899" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="blurHeavy" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="45"/>
+    </filter>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="panelClip">
+      <rect x="90" y="60" width="1020" height="230" rx="26"/>
+    </clipPath>
+  </defs>
+
+  <rect width="1200" height="360" fill="url(#bgGrad)"/>
+
+  <!-- ambient glow blobs (blurred, behind glass) -->
+  <g filter="url(#blurHeavy)">
+    <circle cx="220" cy="90" r="150" fill="url(#glowCyan)">
+      <animate attributeName="cx" values="220;260;220" dur="9s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="980" cy="120" r="180" fill="url(#glowPurple)">
+      <animate attributeName="cy" values="120;160;120" dur="11s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="650" cy="300" r="160" fill="url(#glowPink)">
+      <animate attributeName="cx" values="650;600;650" dur="10s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- glass panel -->
+  <rect x="90" y="60" width="1020" height="230" rx="26" fill="#ffffff" fill-opacity="0.045" stroke="url(#borderGrad)" stroke-width="1.4"/>
+  <rect x="92" y="62" width="1016" height="1" fill="#ffffff" fill-opacity="0.25"/>
+
+  <text x="600" y="165" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="54" font-weight="700" fill="url(#textGrad)" filter="url(#softGlow)">RAKIBUL HASAN</text>
+  <text x="600" y="205" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" fill="#c9d1e0" fill-opacity="0.85" letter-spacing="1">Full Stack Software Engineer &#183; AI Explorer &#183; Creative Technologist</text>
+
+  <!-- tag pills -->
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#e2e8f0">
+    <g>
+      <rect x="330" y="230" width="88" height="30" rx="15" fill="#ffffff" fill-opacity="0.06" stroke="#22d3ee" stroke-opacity="0.5"/>
+      <text x="374" y="249" text-anchor="middle">React/Next</text>
+    </g>
+    <g>
+      <rect x="428" y="230" width="72" height="30" rx="15" fill="#ffffff" fill-opacity="0.06" stroke="#a855f7" stroke-opacity="0.5"/>
+      <text x="464" y="249" text-anchor="middle">Node/Go</text>
+    </g>
+    <g>
+      <rect x="510" y="230" width="66" height="30" rx="15" fill="#ffffff" fill-opacity="0.06" stroke="#ec4899" stroke-opacity="0.5"/>
+      <text x="543" y="249" text-anchor="middle">AI/ML</text>
+    </g>
+    <g>
+      <rect x="586" y="230" width="90" height="30" rx="15" fill="#ffffff" fill-opacity="0.06" stroke="#22d3ee" stroke-opacity="0.5"/>
+      <text x="631" y="249" text-anchor="middle">Cloud/DevOps</text>
+    </g>
+    <g>
+      <rect x="686" y="230" width="94" height="30" rx="15" fill="#ffffff" fill-opacity="0.06" stroke="#a855f7" stroke-opacity="0.5"/>
+      <text x="733" y="249" text-anchor="middle">Design/Video</text>
+    </g>
+  </g>
+</svg>
