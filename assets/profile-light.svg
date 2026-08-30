@@ -1,0 +1,130 @@
+<svg width="1200" height="860" viewBox="0 0 1200 860" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="panelFill" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#000000" stop-opacity="0.035"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0.012"/>
+    </linearGradient>
+  </defs>
+
+  <!-- transparent canvas: GitHub's own light/dark background shows through -->
+
+  <rect x="60" y="20" width="1080" height="800" rx="28" fill="url(#panelFill)" stroke="rgba(0,0,0,0.12)" stroke-width="1"/>
+
+  <!-- Header -->
+  <text x="90" y="72" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="32" font-weight="700" letter-spacing="-0.5" fill="#1d1d1f">Rakibul Hasan</text>
+  <text x="90" y="98" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="14.5" fill="#59595e">Full Stack Software Engineer &#183; AI Explorer &#183; Creative Technologist</text>
+
+  <line x1="90" y1="122" x2="1110" y2="122" stroke="rgba(0,0,0,0.1)" stroke-width="1"/>
+
+  <!-- About -->
+  <text x="90" y="152" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" letter-spacing="2" fill="#007AFF">ABOUT</text>
+  <text x="90" y="178" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="14.5" fill="#59595e">Building scalable web apps with modern JS ecosystems &amp; cloud-native architecture. Founder/engineer at</text>
+  <text x="90" y="200" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="14.5" fill="#59595e"><tspan font-weight="600" fill="#1d1d1f">Ubunzi Studio</tspan> &#8212; exploring practical AI integrations for startups &amp; SaaS, and hybrid local/cloud inference.</text>
+
+  <line x1="90" y1="226" x2="1110" y2="226" stroke="rgba(0,0,0,0.1)" stroke-width="1"/>
+
+  <!-- Tech Stack -->
+  <text x="90" y="256" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" letter-spacing="2" fill="#007AFF">STACK</text>
+
+  <g font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#59595e">
+    <text x="90" y="282" font-size="12" font-weight="600" fill="#86868b">Frontend</text>
+    <g>
+      <rect x="200" y="266" width="62" height="26" rx="13" fill="rgba(0,0,0,0.035)" stroke="rgba(0,0,0,0.12)"/>
+      <text x="231" y="283" text-anchor="middle" fill="#59595e">React</text>
+      <rect x="270" y="266" width="68" height="26" rx="13" fill="rgba(0,0,0,0.035)" stroke="rgba(0,0,0,0.12)"/>
+      <text x="304" y="283" text-anchor="middle" fill="#59595e">Next.js</text>
+      <rect x="346" y="266" width="86" height="26" rx="13" fill="rgba(0,0,0,0.035)" stroke="rgba(0,0,0,0.12)"/>
+      <text x="389" y="283" text-anchor="middle" fill="#59595e">TypeScript</text>
+      <rect x="440" y="266" width="90" height="26" rx="13" fill="rgba(0,0,0,0.035)" stroke="rgba(0,0,0,0.12)"/>
+      <text x="485" y="283" text-anchor="middle" fill="#59595e">Tailwind CSS</text>
+      <rect x="538" y="266" width="66" height="26" rx="13" fill="rgba(0,0,0,0.035)" stroke="rgba(0,0,0,0.12)"/>
+      <text x="571" y="283" text-anchor="middle" fill="#59595e">Framer</text>
+    </g>
+
+    <text x="90" y="330" font-size="12" font-weight="600" fill="#86868b">Backend</text>
+    <g>
+      <rect x="200" y="314" width="76" height="26" rx="13" fill="rgba(0,0,0,0.035)" stroke="rgba(0,0,0,0.12)"/>
+      <text x="238" y="331" text-anchor="middle" fill="#59595e">Node.js</text>
+      <rect x="284" y="314" width="72" height="26" rx="13" fill="rgba(0,0,0,0.035)" stroke="rgba(0,0,0,0.12)"/>
+      <text x="320" y="331" text-anchor="middle" fill="#59595e">NestJS</text>
+      <rect x="364" y="314" width="104" height="26" rx="13" fill="rgba(0,0,0,0.035)" stroke="rgba(0,0,0,0.12)"/>
+      <text x="416" y="331" text-anchor="middle" fill="#59595e">Go &#183; Fiber</text>
+      <rect x="476" y="314" width="70" height="26" rx="13" fill="rgba(0,0,0,0.035)" stroke="rgba(0,0,0,0.12)"/>
+      <text x="511" y="331" text-anchor="middle" fill="#59595e">GraphQL</text>
+      <rect x="554" y="314" width="66" height="26" rx="13" fill="rgba(0,0,0,0.035)" stroke="rgba(0,0,0,0.12)"/>
+      <text x="587" y="331" text-anchor="middle" fill="#59595e">Prisma</text>
+      <rect x="628" y="314" width="72" height="26" rx="13" fill="rgba(0,0,0,0.035)" stroke="rgba(0,0,0,0.12)"/>
+      <text x="664" y="331" text-anchor="middle" fill="#59595e">Socket.io</text>
+    </g>
+
+    <text x="90" y="378" font-size="12" font-weight="600" fill="#86868b">Data &amp; AI</text>
+    <g>
+      <rect x="200" y="362" width="84" height="26" rx="13" fill="rgba(0,0,0,0.035)" stroke="rgba(0,0,0,0.12)"/>
+      <text x="242" y="379" text-anchor="middle" fill="#59595e">MongoDB</text>
+      <rect x="292" y="362" width="94" height="26" rx="13" fill="rgba(0,0,0,0.035)" stroke="rgba(0,0,0,0.12)"/>
+      <text x="339" y="379" text-anchor="middle" fill="#59595e">PostgreSQL</text>
+      <rect x="394" y="362" width="62" height="26" rx="13" fill="rgba(0,0,0,0.035)" stroke="rgba(0,0,0,0.12)"/>
+      <text x="425" y="379" text-anchor="middle" fill="#59595e">Redis</text>
+      <rect x="464" y="362" width="86" height="26" rx="13" fill="rgba(0,0,0,0.035)" stroke="rgba(0,0,0,0.12)"/>
+      <text x="507" y="379" text-anchor="middle" fill="#59595e">PyTorch</text>
+      <rect x="558" y="362" width="86" height="26" rx="13" fill="rgba(0,0,0,0.035)" stroke="rgba(0,0,0,0.12)"/>
+      <text x="601" y="379" text-anchor="middle" fill="#59595e">LangChain</text>
+      <rect x="652" y="362" width="102" height="26" rx="13" fill="rgba(0,0,0,0.035)" stroke="rgba(0,0,0,0.12)"/>
+      <text x="703" y="379" text-anchor="middle" fill="#59595e">Hugging Face</text>
+    </g>
+
+    <text x="90" y="426" font-size="12" font-weight="600" fill="#86868b">DevOps &amp; Design</text>
+    <g>
+      <rect x="230" y="410" width="54" height="26" rx="13" fill="rgba(0,0,0,0.035)" stroke="rgba(0,0,0,0.12)"/>
+      <text x="257" y="427" text-anchor="middle" fill="#59595e">Git</text>
+      <rect x="292" y="410" width="66" height="26" rx="13" fill="rgba(0,0,0,0.035)" stroke="rgba(0,0,0,0.12)"/>
+      <text x="325" y="427" text-anchor="middle" fill="#59595e">Docker</text>
+      <rect x="366" y="410" width="94" height="26" rx="13" fill="rgba(0,0,0,0.035)" stroke="rgba(0,0,0,0.12)"/>
+      <text x="413" y="427" text-anchor="middle" fill="#59595e">Kubernetes</text>
+      <rect x="468" y="410" width="48" height="26" rx="13" fill="rgba(0,0,0,0.035)" stroke="rgba(0,0,0,0.12)"/>
+      <text x="492" y="427" text-anchor="middle" fill="#59595e">AWS</text>
+      <rect x="524" y="410" width="70" height="26" rx="13" fill="rgba(0,0,0,0.035)" stroke="rgba(0,0,0,0.12)"/>
+      <text x="559" y="427" text-anchor="middle" fill="#59595e">Vercel</text>
+      <rect x="602" y="410" width="90" height="26" rx="13" fill="rgba(0,0,0,0.035)" stroke="rgba(0,0,0,0.12)"/>
+      <text x="647" y="427" text-anchor="middle" fill="#59595e">Photoshop</text>
+      <rect x="700" y="410" width="102" height="26" rx="13" fill="rgba(0,0,0,0.035)" stroke="rgba(0,0,0,0.12)"/>
+      <text x="751" y="427" text-anchor="middle" fill="#59595e">After Effects</text>
+    </g>
+  </g>
+
+  <line x1="90" y1="464" x2="1110" y2="464" stroke="rgba(0,0,0,0.1)" stroke-width="1"/>
+
+  <!-- Projects -->
+  <text x="90" y="494" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" letter-spacing="2" fill="#007AFF">PROJECTS</text>
+
+  <g font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif">
+    <text x="90" y="524" font-size="15" font-weight="600" fill="#1d1d1f">Realtime Chat</text>
+    <text x="260" y="524" font-size="13" fill="#59595e">Instant messaging, presence &amp; typing indicators at scale</text>
+    <text x="700" y="524" font-size="12" fill="#86868b">Next.js &#183; NestJS &#183; Socket.io &#183; Redis</text>
+    <text x="960" y="524" font-size="12.5" fill="#007AFF">chat-app &#8594;</text>
+
+    <text x="90" y="560" font-size="15" font-weight="600" fill="#1d1d1f">Todo App</text>
+    <text x="260" y="560" font-size="13" fill="#59595e">Drag-and-drop task manager with persistent storage</text>
+    <text x="700" y="560" font-size="12" fill="#86868b">Next.js &#183; TypeScript &#183; DnD</text>
+    <text x="960" y="560" font-size="12.5" fill="#007AFF">TodoApp &#8594;</text>
+
+    <text x="90" y="596" font-size="15" font-weight="600" fill="#1d1d1f">Medicare</text>
+    <text x="260" y="596" font-size="13" fill="#59595e">E-commerce platform with Stripe checkout flow</text>
+    <text x="700" y="596" font-size="12" fill="#86868b">React &#183; Express &#183; MongoDB &#183; Stripe</text>
+    <text x="960" y="596" font-size="12.5" fill="#007AFF">medicare &#8594;</text>
+  </g>
+
+  <line x1="90" y1="626" x2="1110" y2="626" stroke="rgba(0,0,0,0.1)" stroke-width="1"/>
+
+  <!-- Connect -->
+  <text x="90" y="656" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" letter-spacing="2" fill="#007AFF">CONNECT</text>
+
+  <g font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="13.5" fill="#59595e">
+    <rect x="90" y="670" width="120" height="36" rx="18" fill="rgba(0,0,0,0.035)" stroke="rgba(0,0,0,0.12)"/>
+    <text x="150" y="693" text-anchor="middle" fill="#1d1d1f">LinkedIn</text>
+    <rect x="222" y="670" width="120" height="36" rx="18" fill="rgba(0,0,0,0.035)" stroke="rgba(0,0,0,0.12)"/>
+    <text x="282" y="693" text-anchor="middle" fill="#1d1d1f">Facebook</text>
+    <rect x="354" y="670" width="120" height="36" rx="18" fill="rgba(0,0,0,0.035)" stroke="rgba(0,0,0,0.12)"/>
+    <text x="414" y="693" text-anchor="middle" fill="#1d1d1f">Email</text>
+  </g>
+</svg>
